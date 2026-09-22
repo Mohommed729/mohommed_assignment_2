@@ -1,0 +1,12 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# Local instructor-only material should never be pushed to the student template.
+_instructor_only/
+
+# Keep this template clean unless an assignment explicitly includes data.
+data/
